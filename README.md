@@ -39,3 +39,5 @@ THIS CODE IS PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPL
 Microsoft does not take any responsibility for, nor does it warrant that the functions contained in the work will meet your requirements or that the operation of the work will be error-free.  
    
 Please review the code thoroughly before using it in a production environment.
+
+Version from WorkShop
